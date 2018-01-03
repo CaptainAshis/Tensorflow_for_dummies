@@ -1,1 +1,5 @@
 
+For people who are wandering What's the difference between tf.Session() and tf.InteractiveSession()?
+
+Please check out the link :-
+https://stackoverflow.com/questions/41791469/whats-the-difference-between-tf-session-and-tf-interactivesession
